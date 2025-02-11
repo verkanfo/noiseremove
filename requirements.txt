@@ -1,0 +1,9 @@
+deepfilternet
+librosa
+matplotlib
+numpy
+pydub
+soundfile
+streamlit
+torch
+torchaudio
